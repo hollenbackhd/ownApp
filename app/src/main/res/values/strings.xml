@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">pokedex</string>
+
+    <string name="bulbasaur">Bulbasaur</string>
+    <string name="charmander">Charmander</string>
+    <string name="squirtle">Squirtle</string>
+    <string name="chikorita">Chikorita</string>
+    <string name="cyndaquil">Cyndaquil</string>
+    <string name="totodile">Totodile</string>
+    <string name="treecko">Treecko</string>
+    <string name="torchic">Torchic</string>
+    <string name="mudkip">Mudkip</string>
+    <string name="turtwig">Turtwig</string>
+    <string name="chimchar">Chimchar</string>
+    <string name="piplub">Piplub</string>
+    <string name="rowlet">Rowlet</string>
+    <string name="litten">Litten</string>
+    <string name="popplio">Popplio</string>
+    <string name="snivy">Snivy</string>
+    <string name="tepig">Tepig</string>
+    <string name="oshawott">Oshawott</string>
+    <string name="chespin">Chespin</string>
+    <string name="fennekin">Fennekin</string>
+    <string name="froakie">Froakie</string>
+    <string name="grookey">Grookey</string>
+    <string name="scorbunny">Scorbunny</string>
+    <string name="sobble">Sobble</string>
+    <string name="sprigatito">Sprigatito</string>
+    <string name="fuecoco">Fuecoco</string>
+    <string name="quaxly">Quaxly</string>
+
+    <string name="bulbasaur_def">There is a plant seed on its back right from the day this Pokémon is born. The seed slowly grows larger.</string>
+    <string name="charmander_def">It has a preference for hot things. When it rains, steam is said to spout from the tip of its tail.</string>
+    <string name="squirtle_def">When it retracts its long neck into its shell, it squirts out water with vigorous force.</string>
+    <string name="chikorita_def">In battle, this Pokémon waves its leaf around to keep the foe at bay. However, a sweet fragrance also wafts from the leaf, becalming the battling Pokémon and creating a cozy, friendly atmosphere all around.</string>
+    <string name="cyndaquil_def">This Pokémon protects itself by flaring up the flames on its back. The flames are vigorous if the Pokémon is angry. However, if it is tired, the flames splutter fitfully with incomplete combustion.</string>
+    <string name="totodile_def">Despite the smallness of its body, this Pokémon’s jaws are very powerful. While the Pokémon may think it is just playfully nipping, its bite has enough power to cause serious injury.</string>
+    <string name="treecko_def">This Pokémon has small hooks on the bottom of its feet that enable it to scale vertical walls. This Pokémon attacks by slamming foes with its thick tail.</string>
+    <string name="torchic_def">This Pokémon sticks with its Trainer, following behind with unsteady steps. This Pokémon breathes fire of over 1,800 degrees Fahrenheit, including fireballs that leave the foe scorched black.</string>
+    <string name="mudkip_def">The fin on this Pokémon’s head acts as highly sensitive radar. Using this fin to sense movements of water and air, this Pokémon can determine what is taking place around it without using its eyes.</string>
+    <string name="turtwig_def">Photosynthesis occurs across its body under the sun. The shell on its back is actually hardened soil</string>
+    <string name="chimchar_def">Its fiery rear end is fueled by gas made in its belly. Even rain can’t extinguish the fire.</string>
+    <string name="piplub_def">Because it is very proud, it hates accepting food from people. Its thick down guards it from cold</string>
+    <string name="rowlet_def">It sends its feathers, which are as sharp as blades, flying in attack. Its legs are strong, so its kicks are also formidable.</string>
+    <string name="litten_def">If you try too hard to get close to it, it won’t open up to you. Even if you do grow close, giving it too much affection is still a no-no.</string>
+    <string name="popplio_def">The balloons it inflates with its nose grow larger and larger as it practices day by day.</string>
+    <string name="snivy_def">Being exposed to sunlight makes its movements swifter. It uses vines more adeptly than its hands.</string>
+    <string name="tepig_def">It can deftly dodge its foe’s attacks while shooting fireballs from its nose. It roasts berries before it eats them.</string>
+    <string name="oshawott_def">The scalchop on its stomach isn’t just used for battle—it can be used to break open hard berries as well.</string>
+    <string name="chespin_def">The quills on its head are usually soft. When it flexes them, the points become so hard and sharp that they can pierce rock.</string>
+    <string name="fennekin_def">Eating a twig fills it with energy, and its roomy ears give vent to air hotter than 390 degrees Fahrenheit.</string>
+    <string name="froakie_def">It secretes flexible bubbles from its chest and back. The bubbles reduce the damage it would otherwise take when attacked.</string>
+    <string name="grookey_def">When it uses its special stick to strike up a beat, the sound waves produced carry revitalizing energy to the plants and flowers in the area.</string>
+    <string name="scorbunny_def">A warm-up of running around gets fire energy coursing through this Pokémon’s body. Once that happens, it’s ready to fight at full power.</string>
+    <string name="sobble_def">When scared, this Pokémon cries. Its tears pack the chemical punch of 100 onions, and attackers won’t be able to resist weeping.</string>
+
+
+
+</resources>
