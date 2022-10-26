@@ -35,60 +35,6 @@
         android:scaleType="fitXY"
         app:srcCompat="@drawable/pokedex_pic" />
 
-    <ImageView
-        android:id="@+id/Property_of"
-        android:layout_width="174dp"
-        android:layout_height="72dp"
-        android:rotation="+18"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="@+id/imageView3"
-        app:layout_constraintHorizontal_bias="1.0"
-        app:layout_constraintStart_toStartOf="@+id/imageView3"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.024"
-        app:srcCompat="@drawable/small_tape" />
-
-    <EditText
-        android:id="@+id/yourName"
-        android:layout_width="136dp"
-        android:layout_height="48dp"
-        android:fontFamily="casual"
-        android:hint="Your name?"
-        android:inputType="textCapSentences"
-        android:singleLine="false"
-        android:textAlignment="center"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.941"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.048" />
-
-    <ImageView
-        android:id="@+id/imageView"
-        android:layout_width="117dp"
-        android:layout_height="50dp"
-        android:rotation="+18"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.758"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.0"
-        app:srcCompat="@drawable/small_tape" />
-
-    <TextView
-        android:id="@+id/textView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Property of:"
-        app:layout_constraintBottom_toBottomOf="@+id/imageView3"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.732"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="@+id/imageView3"
-        app:layout_constraintVertical_bias="0.022" />
-
 </androidx.constraintlayout.widget.ConstraintLayout>
 
 
